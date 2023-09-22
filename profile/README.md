@@ -21,10 +21,6 @@ https://owncast.online/
 
 https://walkie.cloud/
 
-https://www.worldometers.info/
-
-https://appstream2.us-west-2.aws.amazon.com/#/catalogs
-
 https://app.salad.io/login
 
 https://glitchii.github.io/embedbuilder/
@@ -38,6 +34,10 @@ https://lookerstudio.google.com/navigation/reporting
 https://orbitalmechanics.info/
 
 https://glitch.com/
+
+https://w3schools.com
+
+https://developer.mozilla.org/
 
 **MORE COMING SOON**
 
